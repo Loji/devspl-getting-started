@@ -13,7 +13,7 @@ Lista ciekawych kanalow ktore sa dosc aktywne:
 
 #work -> rozmowy o pracy i czasami spam
 
-#golang, #dotnet, #java, #python - tematyczne kanaly ktore sa bardzo czesto aktywne
+#golang, #dotnet, #java, #python, #javascript, #frontend - tematyczne kanaly ktore sa bardzo czesto aktywne
 
 #architecture - ogolny aktywny kanal o architekturze
 
